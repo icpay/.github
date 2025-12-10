@@ -1,6 +1,6 @@
 # ICPay
 
-Integrate crypto payments in minutes. Zero chargebacks, instant settlements, and global coverage powered by the Internet Computer.
+Integrate crypto payments in minutes. Zero chargebacks, instant settlements, and global coverage powered by icpay.
 
 ## What we build
 - SDKs and drop‑in widgets for accepting crypto payments
